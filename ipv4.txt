@@ -1,1 +1,1 @@
-trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443?sni=bangladeshipatri.com&security=tls&type=ws&path=/6b777a91&host=bangladeshipatri.com#United+States
+trojan://ce8b8b30ebba45f2a38dd608b85e868@104.16.159.9:443?sni=bangladeshipatri.com&security=tls&type=ws&path=/6b777a91&host=bangladeshipatri.com#United+States
