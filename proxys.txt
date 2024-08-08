@@ -1,3 +1,5 @@
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.194.2:443?sni=jobscareerfortoday.com&security=tls&type=ws&path=6b777a91&host=jobscareerfortoday.com#%20%20%20793
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.197.2:443?sni=jobscareerfortoday.com&security=tls&type=ws&path=6b777a91&host=jobscareerfortoday.com#%20%20%20796
 vless://81f2020b-48eb-4044-9030-499668282624@151.101.10.219:443?sni=speedtest.net&security=tls&type=ws&path=/ed%3D443&host=amiajoketoyou.com#%F0%9F%94%92%20%DA%A9%D9%81%D8%B4%20%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA%20%F0%9F%9A%80%20%F0%9F%87%BA%F0%9F%87%B8%20US-151.101.10.219:443
 vless://81f2020b-48eb-4044-9030-499668282624@151.101.18.219:443?sni=speedtest.net&security=tls&type=ws&path=/ed%3D443&host=amiajoketoyou.com#%F0%9F%94%92%20%DA%A9%D9%81%D8%B4%20%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA%20%F0%9F%9A%80%20%F0%9F%87%BA%F0%9F%87%B8%20US-151.101.18.219:443
 vless://81f2020b-48eb-4044-9030-499668282624@151.101.38.219:443?sni=speedtest.net&security=tls&type=ws&path=/ed%3D443&host=amiajoketoyou.com#%F0%9F%94%92%20%DA%A9%D9%81%D8%B4%20%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA%20%F0%9F%9A%80%20%F0%9F%87%BA%F0%9F%87%B8%20US-151.101.38.219:443
