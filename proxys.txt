@@ -1,3 +1,6 @@
+vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.61.8:2083?sni=cpanel3.sassanidempire.com&security=tls&type=ws&path=/ws&host=cpanel3.sassanidempire.com#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub%60
+vless://8cc1cbef-6ab0-4fd1-fe0d-f572d5c4e6a1@gg.v2ryng01.ru:123?security=tls&type=grpc#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub%60
+trojan://telegram-id-directvpn@15.157.221.180:22222?sni=trojan.burgerip.co.uk&security=tls&type=tcp#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada%60
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?sni=iSaA1.paGes.DEv&security=tls&type=ws&path=/T7OzaaLG5SkllZJf?ed%3D2560&host=IsaA1.pAGEs.DEV#[%F0%9F%87%A8%F0%9F%87%A6]t.me/ConfigsHub%60
 vless://b178f29c-5765-48ec-866d-914a5a7eaa39@185.146.173.58:8080?security=&type=ws&path=/servernett&host=lc69.lebasnoo.ir.#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AASweden%60
 trojan://telegram-id-privatevpns@52.58.55.88:22222?sni=trojan.burgerip.co.uk&security=tls&type=tcp#[%F0%9F%8F%81]t.me/ConfigsHub%60
